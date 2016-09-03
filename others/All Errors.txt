@@ -1,0 +1,22 @@
+1. alive.php
+	数据库连接失败 CommonException 0
+	数据库查询失败 CommonException 1
+	数据库修改失败 CommonException 2
+	文件删除失败 CommonException 3
+ 	文件写入失败 CommonException 4
+	IP冲突 CommonException 5
+2. clean.php
+	CleanException:
+		
+3. readinfo.php
+	数据库连接失败 CommonException 0
+	数据库查询失败 CommonException 1
+	FIB表无效 CommonException 6
+	信息文件无效 CommonException 7
+	文件删除失败 CommonException 3
+ 	文件写入失败 CommonException 4
+4. FIBup.php
+	数据库连接失败 CommonException 0
+	数据库查询失败 CommonException 1
+	文件删除失败 CommonException 3
+	文件写入失败 CommonException 4

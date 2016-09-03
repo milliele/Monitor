@@ -1,0 +1,5 @@
+default
+Pku.edu.cn 172.31.252.33
+Baidu.com 172.31.232.66
+YouTube.com 172.31.203.66
+W3school.com.cn/php/php_ref_array.asp 172.31.232.66

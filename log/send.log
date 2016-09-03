@@ -1,0 +1,1039 @@
+[ERROR][2016-04-29 18:38:41] URL Error: [Errno 111] Connection refused
+[ERROR][2016-04-29 21:59:30] File Error:[Errno 2] No such file or directory: 'conf.xml'
+[ERROR][2016-04-29 21:59:32] File Error:[Errno 2] No such file or directory: 'conf.xml'
+[ERROR][2016-04-29 22:44:26] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:44:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:44:34] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:44:37] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:44:42] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:44:45] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:44:50] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:44:53] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:44:58] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:45:01] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:45:06] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:45:09] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:45:14] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:45:17] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:45:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 22:52:22] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:24] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:25] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:27] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:29] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:31] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:33] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:35] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:37] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:39] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:41] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:43] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:45] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:47] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:49] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:51] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:53] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:55] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:57] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:52:59] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:01] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:03] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:05] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:07] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:09] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:11] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:13] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:15] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:17] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:20] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:22] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:24] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:26] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:28] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:30] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:32] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:34] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:36] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:38] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:40] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:42] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:44] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:46] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:48] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:50] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:52] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:54] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:56] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:53:58] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:00] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:02] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:04] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:06] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:08] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:10] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:12] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:14] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:16] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:18] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:20] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:22] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:24] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:26] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:28] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:30] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:32] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:34] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:57] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-04-29 22:54:59] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        [ERROR][2016-04-29 23:49:25] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:49:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:49:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:49:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:49:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:49:42] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:49:46] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:49:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:49:54] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:49:57] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:02] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:05] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:10] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:17] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:37] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:40] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:45] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:48] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:53] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:56] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:50:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:02] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:10] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:18] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:21] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:26] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:38] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:46] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:54] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:51:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:02] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:10] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:21] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:38] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:46] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:54] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:52:57] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:02] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:05] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:10] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:18] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:21] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:53:58] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:06] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:09] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:12] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:15] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:34] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:37] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:42] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:45] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:48] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:56] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:54:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:02] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:05] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:10] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:18] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:21] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:26] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:34] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:37] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:42] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:45] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:50] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:53] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:55:58] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:01] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:06] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:09] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:14] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:17] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:22] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:25] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:30] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:33] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:38] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:41] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:46] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:49] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:54] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:56:57] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:02] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:05] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:10] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:18] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:21] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:26] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:34] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:37] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:42] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:45] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:50] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:53] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:57:58] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:01] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:06] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:09] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:14] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:17] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:22] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:25] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:30] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:33] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:38] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:41] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:46] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:49] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:54] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:58:57] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:02] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:05] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:10] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:18] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:21] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:26] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:34] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:37] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:42] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:45] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:50] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:53] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-29 23:59:58] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:01] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:06] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:09] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:14] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:17] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:22] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:25] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:30] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:33] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:38] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:41] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:46] URL Error: [Errno 113] No route to host
+[ERROR][2016-04-30 00:00:49] URL Error: [Errno 113] No route to host
+                                                                    [ERROR][2016-05-04 15:48:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:48:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:14] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:17] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:22] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:25] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:49:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:27] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:33] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:41] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:49] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:50:57] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:51:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:51:05] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:51:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:51:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:51:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:51:21] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:51:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:51:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:51:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-05-04 15:51:34] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-05-04 15:51:39] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:51:41] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:51:43] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:51:45] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:51:47] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:51:45] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:51:47] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:51:49] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:51:51] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:51:53] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:51:56] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:51:58] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:00] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:02] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:04] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:06] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:08] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:10] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:12] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:14] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:17] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:19] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:21] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:23] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:25] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:27] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:29] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:31] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:33] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:35] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:37] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:39] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:41] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:43] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:45] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:47] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:49] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:51] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:53] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:55] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:57] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:52:59] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:01] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:03] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:05] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:07] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:09] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:12] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:14] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:16] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:18] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:20] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:22] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:24] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:26] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:28] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:30] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:32] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:34] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:36] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:38] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:40] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:42] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:44] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:46] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:48] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:50] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:52] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:54] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:56] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:53:58] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:00] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:02] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:04] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:06] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:08] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:11] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:13] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:15] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:17] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:19] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:21] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:23] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:25] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:27] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:29] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:31] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:33] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:35] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 15:54:37] Other Error: 'ascii' codec can't encode characters in position 9-13: ordinal not in range(128)
+[ERROR][2016-05-04 16:37:17] PHP Feedback Error: In alive.php: Database Connection Error
+[ERROR][2016-05-13 15:41:25] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-05-13 15:41:27] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-05-13 15:41:29] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-05-13 15:41:31] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-05-13 15:41:33] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-05-13 15:41:35] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-05-13 15:43:44] URL Error: [Errno 110] Connection timed out
+[ERROR][2016-05-13 15:45:53] URL Error: [Errno 110] Connection timed out
+[ERROR][2016-05-13 15:48:03] URL Error: [Errno 110] Connection timed out
+[ERROR][2016-05-13 15:50:12] URL Error: [Errno 110] Connection timed out
+[ERROR][2016-05-13 15:52:21] URL Error: [Errno 110] Connection timed out
+[ERROR][2016-05-13 15:54:30] URL Error: [Errno 110] Connection timed out
+[ERROR][2016-05-13 15:56:40] URL Error: [Errno 110] Connection timed out
+[ERROR][2016-05-13 15:58:49] URL Error: [Errno 110] Connection timed out
+[ERROR][2016-05-19 15:29:14] URL Error: [Errno 111] Connection refused
+[ERROR][2016-05-19 15:29:16] URL Error: [Errno 111] Connection refused
+[ERROR][2016-05-19 15:49:35] PHP Feedback Error: In alive.php: Database Connection Error
+[ERROR][2016-05-19 15:49:37] PHP Feedback Error: In alive.php: Database Connection Error
+[ERROR][2016-05-31 15:51:58] PHP Feedback Error: In alive.php: Database Connection Error
+[ERROR][2016-06-13 13:56:28] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-13 13:56:33] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:56:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:56:41] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:56:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:56:49] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:56:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:56:57] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:02] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:12] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:15] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:37] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:40] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:45] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:48] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:53] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:57:56] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:01] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:04] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:09] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:12] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:17] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:25] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:33] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:41] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:49] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:58:57] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:59:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:59:05] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:59:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:59:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:59:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:59:21] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-13 13:59:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:05] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:21] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:37] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:42] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:08:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:27] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:40] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:48] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:56] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:09:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:04] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:12] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:15] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:10:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:27] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:40] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:48] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:56] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:11:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:04] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:12] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:15] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:12:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:27] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:40] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:48] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:56] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:13:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:04] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:12] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:15] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:14:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:27] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:40] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:48] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:56] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:15:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:04] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:12] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:15] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:16:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:27] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:40] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:48] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:56] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:17:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:04] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:12] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:15] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:18:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:27] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:40] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:48] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:56] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:19:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:04] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:12] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:15] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:20:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:27] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:40] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:48] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:56] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:21:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:04] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:12] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:15] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:22:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:27] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:40] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:48] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:56] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:23:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:04] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:12] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:15] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:24:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:27] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:32] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:40] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:48] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:56] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:25:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:04] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:12] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:15] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:20] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:28] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:36] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:44] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:52] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:26:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:27:00] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:27:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:27:08] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:27:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:27:16] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:27:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:27:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:27:27] URL Error: [Errno 113] No route to host
+                                                                     [ERROR][2016-06-15 20:27:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:27:58] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:28:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:28:06] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:28:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:28:14] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:28:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:28:24] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:28:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:28:34] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:28:37] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:28:42] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:28:45] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:02] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:05] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:10] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:18] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:21] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:26] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:34] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:37] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:42] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:45] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:50] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:53] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:29:58] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:01] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:06] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:09] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:14] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:17] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:22] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:25] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:30] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:33] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:38] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:41] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:46] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:49] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:54] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:30:57] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:02] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:05] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:10] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:18] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:21] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:26] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:34] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:37] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:42] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:45] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:50] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:53] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:31:58] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:01] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:06] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:09] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:14] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:17] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:22] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:25] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:30] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:33] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:38] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:41] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:46] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:49] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:54] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:32:57] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:02] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:05] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:10] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:13] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:18] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:21] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:26] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:29] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:34] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:37] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:42] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:45] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:50] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:53] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:33:58] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:01] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:06] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:09] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:14] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:17] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:22] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:25] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:30] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:33] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:38] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:41] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:46] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:49] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-15 20:34:54] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:51:30] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:51:33] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:51:38] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:51:41] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:51:46] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:51:49] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:51:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:51:58] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:06] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:14] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:22] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:27] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:30] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:38] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:46] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:51] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:54] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:52:59] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:02] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:07] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:10] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:15] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:18] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:23] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:26] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:31] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:34] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:39] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:42] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:47] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:50] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:55] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:53:58] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:54:03] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:54:06] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:54:11] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:54:14] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:54:19] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:54:22] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:54:27] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:54:30] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:54:35] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:54:38] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-18 21:54:43] URL Error: [Errno 113] No route to host
+[ERROR][2016-06-19 02:46:20] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:22] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:24] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:26] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:28] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:30] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:32] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:34] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:36] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:38] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:40] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:42] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:44] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:46] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:48] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:50] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:52] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:54] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:56] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:46:58] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:00] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:02] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:04] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:06] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:08] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:10] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:12] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:14] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:16] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:18] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:20] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:22] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:24] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:26] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:28] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:30] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:32] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:34] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:36] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:38] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:40] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:42] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:44] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:46] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:48] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:50] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:52] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:54] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:56] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:47:58] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:00] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:02] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:04] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:06] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:08] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:10] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:12] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:14] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:16] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:18] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:20] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:22] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:24] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:26] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:28] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:30] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:32] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:34] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:36] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:38] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:40] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:42] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:44] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:46] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:48] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:50] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:52] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:54] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:56] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:48:58] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:00] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:02] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:04] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:06] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:08] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:10] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:12] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:14] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:16] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:18] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:20] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:22] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:24] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:26] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:28] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:30] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:32] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:34] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:36] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:38] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:40] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:42] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:44] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:46] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:48] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:50] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:52] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:54] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:56] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:49:58] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:00] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:02] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:04] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:06] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:08] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:10] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:12] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:14] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:16] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:18] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:20] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:22] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:24] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:26] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:43] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:50:45] URL Error: [Errno 101] Network is unreachable
+[ERROR][2016-06-19 02:51:32] PHP Feedback Error: In alive.php: Database Connection Error
+[ERROR][2016-06-19 02:53:01] PHP Feedback Error: In alive.php: Database Connection Error
+[ERROR][2016-06-19 14:11:57] PHP Feedback Error: In alive.php: Database Connection Error
+[ERROR][2016-06-19 18:01:52] PHP Feedback Error: In alive.php: Database Connection Error
+[ERROR][2016-06-19 21:05:19] PHP Feedback Error: In alive.php: Database Connection Error
+[ERROR][2016-06-19 21:12:30] URL Error: [Errno 110] Connection timed out
+[ERROR][2016-06-19 23:18:26] PHP Feedback Error: In alive.php: Database Connection Error
+[ERROR][2016-06-19 23:25:44] PHP Feedback Error: In alive.php: Database Connection Error

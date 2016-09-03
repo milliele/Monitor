@@ -1,0 +1,68 @@
+ovs && kvm chinese: http://os.51cto.com/art/201401/428401.htm
+ovs && kvm: https://github.com/openvswitch/ovs/blob/master/INSTALL.KVM.md
+ovs setup: https://github.com/openvswitch/ovs/blob/master/INSTALL.md
+OVS操作总结: http://www.aboutyun.com/thread-11777-1-1.html
+Kvm教程: http://wiki.ubuntu.org.cn/Kvm%E6%95%99%E7%A8%8B
+
+1. 首先，安装用于构建OVS的依赖项。
+	$ sudo apt-get install build-essential libssl-dev linux-headers-$(uname -r)
+2. 通过源代码来构建OVS，如下所示。下列步骤将构建OVS内核模块以及OVS用户空间工具。
+	get the recent pakage of ovs at: http://openvswitch.org/releases/
+	$ tar xvfvz openvswitch-x.x.x.tar.gz
+	$ cd openvswitch-x.x.x
+	$ ./configure --with-linux=/lib/modules/`uname -r`/build
+	$ make
+3. 接下来，继续在.../openvswitch-x.x.x下安装OVS用户空间组件：
+	$ sudo make install
+4. 下一步是，测试OVS内核模块（安装该模块之前）。为此，先在内核中装入内核模块
+	$ sudo /sbin/modinfo openvswitch.ko
+	$ sudo /sbin/modinfo /lib/modules/`uname -r`/kernel/net/bridge/bridge.ko
+5. 证实OVS内核模块已成功装入。
+	$ lsmod | grep openvswitch
+6. 一旦你证实openvswitch.ko已成功装入到内核中，继续安装内核模块，如下所示
+	$ sudo make modules_install
+	$ sudo /sbin/modprobe openvswitch
+7. 创建一个框架式OVS配置数据库
+	$ mkdir -p /usr/local/etc/openvswitch
+	$ sudo ovsdb-tool create /usr/local/etc/openvswitch/conf.db vswitchd/vswitch.ovsschema
+8. 启动OVS数据库服务器
+	$ sudo ovsdb-server --remote=punix:/usr/local/var/run/openvswitch/db.sock \
+                 --remote=db:Open_vSwitch,Open_vSwitch,manager_options \
+                 --private-key=db:Open_vSwitch,SSL,private_key \
+                 --certificate=db:Open_vSwitch,SSL,certificate \
+                 --bootstrap-ca-cert=db:Open_vSwitch,SSL,ca_cert \
+                 --pidfile --detach
+9. OVS配置数据库初始化
+	$ sudo ovs-vsctl --no-wait init
+10. 最后，启动OVS守护程序
+	$ sudo ovs-vswitchd --pidfile --detach
+
+11. 使用apt-get命令，安装KVM和必要的用户空间工具
+	$ sudo apt-get install qemu-kvm libvirt-bin bridge-utils virt-manager
+12. 将一个普通的非根用户（如alice）添加到libvirtd群组，那样该用户不需要根用户权限，就能启动虚拟机。
+	$ sudo adduser alice libvirtd
+	退出，重新以该用户身份登录，让群组成员的变更生效。
+13. 运行下面这个命令。如果你看到空空如也的虚拟机列表，这意味着KVM已成功设置完毕。
+	virsh -c qemu:///system list
+
+14. 安装依赖项（用户模式Linux实用工具），这些依赖项将用于处理Linux网桥模式
+	$ sudo apt-get install uml-utilities
+15. 创建网桥启动脚本，如下所示
+	$ sudo gedit /etc/openvswitch/ovs-ifup
+		#!/bin/sh
+		switch='br0'
+		/sbin/ifconfig $1 0.0.0.0 up
+		ovs-vsctl add-port ${switch} $1
+	$ sudo vi /etc/openvswitch/ovs-ifdown
+		#!/bin/sh
+		switch='br0'
+		/sbin/ifconfig $1 0.0.0.0 down
+		ovs-vsctl del-port ${switch} $1
+	$ sudo chmod +x /etc/openvswitch/ovs-if*
+16. 然后，创建一个默认的网桥br0，并添加一个物理网络接口，虚拟机将通过这个接口与外部网络进行联系。
+	$ sudo ovs-vsctl add-br br0
+	$ sudo ovs-vsctl add-port br0 eth0
+17. 你已经准备好了一个访客虚拟机映像（比如ubuntu-client.img）。使用下面这个命令，启动访客虚拟机
+	$ sudo kvm -m 1024 -net nic,macaddr=00:11:22:EE:EE:EE \
+-net tap,script=/etc/openvswitch/ovs-ifup,downscript=/etc/openvswitch/ovs-ifdown -vnc :1 -drive \
+file=/var/lib/libvirt/images/ICN-HLM.img,boot=on

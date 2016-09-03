@@ -1,0 +1,5 @@
+default
+Pku.edu.cn 172.31.203.66
+Baidu.com 172.31.203.66
+Google.com 172.31.203.66
+YouTube.com 172.31.203.66

@@ -1,0 +1,2 @@
+create database ICN_monitor
+create table node( node_id integer primary key not null auto_increment, node_name char(100), longitude float, latitude float,ip char(21), remark char(255));

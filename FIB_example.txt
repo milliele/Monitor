@@ -1,0 +1,4 @@
+default
+Baidu.com 172.31.252.33
+YouTube.com 172.31.232.66
+Google.com 172.31.203.66

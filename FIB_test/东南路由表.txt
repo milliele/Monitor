@@ -1,0 +1,4 @@
+default
+Google.com 172.31.252.33
+W3school.com.cn/php/php_ref_array.asp 172.31.252.33
+
